@@ -23,6 +23,7 @@ public class Test
         ff.add("Apple");
         ff.add("AppleMango");
         System.out.println(ff);
+        System.out.println("test ide push");
         ArrayList< Integer > arraylist = new ArrayList < Integer > ();
 
         arraylist.add(10010);
